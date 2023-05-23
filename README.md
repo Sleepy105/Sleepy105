@@ -1,5 +1,5 @@
 
-![L.Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lm-sousa&theme=nord&hide_border=true&show_icons=true&count_private=true&include_all_commits=false)
+![L.Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lm-sousa&theme=nord&hide_border=true&show_icons=true&include_all_commits=true)
 
 <!--
 **Sleepy105/Sleepy105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
